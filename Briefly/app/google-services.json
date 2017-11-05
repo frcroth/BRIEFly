@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "731903975850",
+    "firebase_url": "https://briefly-b160d.firebaseio.com",
+    "project_id": "briefly-b160d",
+    "storage_bucket": "briefly-b160d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731903975850:android:c39cf559cfb71de7",
+        "android_client_info": {
+          "package_name": "com.briefly.nicolai.de.briefly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731903975850-1is2vgdl41slfrfa5dqdn38qjj5t9tg8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.briefly.nicolai.de.briefly",
+            "certificate_hash": "1a498f42e03af8c9882ba7ad1468389a899f8681"
+          }
+        },
+        {
+          "client_id": "731903975850-rq6ubc3lcjnm50cthq0l0k3dbrr3ml1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCihywCwOkwL-_TTcHMBRzdNzGwUxg7XKk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731903975850-rq6ubc3lcjnm50cthq0l0k3dbrr3ml1l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
